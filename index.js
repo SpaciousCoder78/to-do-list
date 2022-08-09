@@ -10,5 +10,6 @@ function newtask(){
     text.appendChild(para);
     text.appendChild(checkbox)
     text.appendChild(broke)
+    text.appendChild(broke)
 }
 
